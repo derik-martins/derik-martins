@@ -1,51 +1,56 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9hDxMyuI6bvF/giphy.gif" width="100"/>
-</div>
+# Derik da Silva Martins
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/derik-s-martins/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:deriksilvamartins2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</div>
+**Desenvolvedor de Software** — backend, inteligência artificial, automações e integração de sistemas.
 
-<h1 align="center">
-  Olá, eu sou o Derik
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+Atualmente na [Planton Soluções Sustentáveis](https://planton.eco.br) e cursando **Bacharelado em Inteligência Artificial** na Unisinos.
+
+Trabalho com desenvolvimento de APIs, processamento de dados, integrações com IA, automações e infraestrutura de aplicações.
 
 ---
 
-### 👨‍💻 Sobre Mim:
-Estou cursando **Análise e Desenvolvimento de Sistemas na FADERGS** e atualmente trabalho como **Software Development Intern Jr. na SISqualis**. Tenho um grande interesse por tecnologia, com foco em desenvolvimento, dados e infraestrutura.
+### Tecnologias
 
-- 🐍 Utilizo **Python** para automação de tarefas e projetos de análise de dados.
-- 🐘 Tenho conhecimento em **PHP** para a construção de soluções web do lado do servidor.
-- 📊 Gosto de transformar dados em insights, aplicando conceitos de **BI** e utilizando **SQL**.
-- ☁️ Sou um entusiasta de infraestrutura, sempre buscando aprender mais sobre servidores, cloud e o universo DevOps.
+**Backend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+
+**Dados**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Infraestrutura**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+
+**Automações & IA**
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-555555?style=flat)
+![RAG](https://img.shields.io/badge/RAG-555555?style=flat)
+
+Automações com n8n, workers e integrações entre APIs · Extração de dados e anonimização com IA
 
 ---
 
-### 🛠️ Habilidades & Ferramentas
+### Stats
 
 <div align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=derik-martins&show_icons=true&theme=graywhite&hide_border=true&hide_title=true&rank_icon=github" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derik-martins&layout=compact&theme=graywhite&hide_border=true&langs_count=6" alt="Top languages" />
+
 </div>
 
 ---
 
-### 🔥 Minhas Estatísticas no GitHub
+### Contato
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=derik-martins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derik-martins&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seu@email.com)
