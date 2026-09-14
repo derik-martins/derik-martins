@@ -2,7 +2,7 @@
 
 **Desenvolvedor de Software** — backend, inteligência artificial, automações e integração de sistemas.
 
-Atualmente na [Planton Soluções Sustentáveis](https://planton.eco.br) e cursando **Bacharelado em Inteligência Artificial** na Unisinos.
+Atualmente na SISqualis e cursando **Bacharelado em Inteligência Artificial** na Unisinos.
 
 Trabalho com desenvolvimento de APIs, processamento de dados, integrações com IA, automações e infraestrutura de aplicações.
 
