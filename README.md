@@ -39,17 +39,6 @@ Automações com n8n, workers e integrações entre APIs · Extração de dados 
 
 ---
 
-### Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=derik-martins&show_icons=true&theme=graywhite&hide_border=true&hide_title=true&rank_icon=github" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derik-martins&layout=compact&theme=graywhite&hide_border=true&langs_count=6" alt="Top languages" />
-
-</div>
-
----
-
 ### Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN)
