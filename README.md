@@ -25,23 +25,23 @@ infra:     containers, Linux, cloud
 
 <br><br>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&hide_title=true&hide_rank=false&bg_color=00000000&text_color=8B949E&icon_color=8B949E&rank_icon=percentile" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=donut&langs_count=6&hide_border=true&hide_title=true&bg_color=00000000&text_color=8B949E" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=derik-martins&show_icons=true&hide_border=true&hide_title=true&hide_rank=false&bg_color=00000000&text_color=8B949E&icon_color=8B949E&rank_icon=percentile" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derik-martins&layout=donut&langs_count=6&hide_border=true&hide_title=true&bg_color=00000000&text_color=8B949E" />
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&hide_border=true&background=00000000&ring=8B949E&fire=8B949E&currStreakLabel=8B949E&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681&stroke=30363D" />
+<img src="https://streak-stats.demolab.com?user=derik-martins&hide_border=true&background=00000000&ring=8B949E&fire=8B949E&currStreakLabel=8B949E&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681&stroke=30363D" />
 
 <br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&hide_border=true&bg_color=00000000&color=8B949E&line=8B949E&point=C9D1D9&area=true&area_color=30363D&hide_title=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=derik-martins&hide_border=true&bg_color=00000000&color=8B949E&line=8B949E&point=C9D1D9&area=true&area_color=30363D&hide_title=true" />
 
 <br>
 
 <a href="https://www.linkedin.com/in/SEU_LINKEDIN">linkedin</a> &nbsp;·&nbsp;
 <a href="mailto:seu@email.com">e-mail</a> &nbsp;·&nbsp;
-<a href="https://github.com/SEU_USUARIO">github</a>
+<a href="https://github.com/derik-martins">github</a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=flat-square&color=30363D&label=visitas" />
+<img src="https://komarev.com/ghpvc/?username=derik-martins&style=flat-square&color=30363D&label=visitas" />
 
 </div>
