@@ -1,0 +1,39 @@
+name: profile
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # todo dia, 03:00 em Brasília
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          TIME_ZONE: "America/Sao_Paulo"
+          THEME: "transparent"
+
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?color_snake=#57606A&color_dots=#EBEDF0,#D0D7DE,#AFB8C1,#8C959F,#6E7781
+            dist/snake-dark.svg?color_snake=#C9D1D9&color_dots=#161B22,#30363D,#484F58,#6E7681,#8B949E
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
