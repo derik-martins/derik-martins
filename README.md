@@ -2,26 +2,25 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=8B949E&center=true&vCenter=true&width=520&lines=Derik+da+Silva+Martins;backend+%C2%B7+IA+%C2%B7+automa%C3%A7%C3%B5es;integra%C3%A7%C3%A3o+de+sistemas" alt="Derik da Silva Martins" />
 
-<sub>Desenvolvedor de Software na <b>SISqualis</b> · Bacharelado em Inteligência Artificial na <b>Unisinos</b></sub>
+<sub>Backend Developer na <b>SISqualis</b> · Bacharelado em Inteligência Artificial na <b>Unisinos</b></sub>
 
 </div>
 
 <br>
 
 ```yaml
-foco:      APIs, processamento de dados, integrações com IA
-dia a dia: automações com n8n, workers e integrações entre APIs
-ia:        LLMs, RAG, extração e anonimização de dados
-infra:     containers, Linux, cloud
+foco:      APIs, processamento de dados massivo, integrações legadas
+dia a dia: fluxos complexos, workers e integrações entre APIs
+ia:        SLMs, NLP, JEPA, R
+infra:     kubernetes, cloud, sql tunnig
 ```
 
 <br>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,php,laravel&theme=dark" /><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,postgres,mysql&theme=dark" /><br>
-<img src="https://skillicons.dev/icons?i=docker,linux,aws,cloudflare&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,nodejs,go,python,angular&theme=dark" /><br>
+<sub><code>backend dev</code></sub>
 
 <br><br>
 
