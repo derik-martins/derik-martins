@@ -1,45 +1,47 @@
-# Derik da Silva Martins
+<div align="center">
 
-**Desenvolvedor de Software** — backend, inteligência artificial, automações e integração de sistemas.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=8B949E&center=true&vCenter=true&width=520&lines=Derik+da+Silva+Martins;backend+%C2%B7+IA+%C2%B7+automa%C3%A7%C3%B5es;integra%C3%A7%C3%A3o+de+sistemas" alt="Derik da Silva Martins" />
 
-Atualmente na SISqualis e cursando **Bacharelado em Inteligência Artificial** na Unisinos.
+<sub>Desenvolvedor de Software na <b>SISqualis</b> · Bacharelado em Inteligência Artificial na <b>Unisinos</b></sub>
 
-Trabalho com desenvolvimento de APIs, processamento de dados, integrações com IA, automações e infraestrutura de aplicações.
+</div>
 
----
+<br>
 
-### Tecnologias
+```yaml
+foco:      APIs, processamento de dados, integrações com IA
+dia a dia: automações com n8n, workers e integrações entre APIs
+ia:        LLMs, RAG, extração e anonimização de dados
+infra:     containers, Linux, cloud
+```
 
-**Backend**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+<br>
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+<div align="center">
 
-**Dados**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,fastapi,php,laravel&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,postgres,mysql&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=docker,linux,aws,cloudflare&theme=dark" />
 
-**Infraestrutura**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+<br><br>
 
-**Automações & IA**
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-555555?style=flat)
-![RAG](https://img.shields.io/badge/RAG-555555?style=flat)
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&hide_title=true&hide_rank=false&bg_color=00000000&text_color=8B949E&icon_color=8B949E&rank_icon=percentile" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=donut&langs_count=6&hide_border=true&hide_title=true&bg_color=00000000&text_color=8B949E" />
 
-Automações com n8n, workers e integrações entre APIs · Extração de dados e anonimização com IA
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&hide_border=true&background=00000000&ring=8B949E&fire=8B949E&currStreakLabel=8B949E&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681&stroke=30363D" />
 
----
+<br>
 
-### Contato
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&hide_border=true&bg_color=00000000&color=8B949E&line=8B949E&point=C9D1D9&area=true&area_color=30363D&hide_title=true" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seu@email.com)
+<br>
+
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN">linkedin</a> &nbsp;·&nbsp;
+<a href="mailto:seu@email.com">e-mail</a> &nbsp;·&nbsp;
+<a href="https://github.com/SEU_USUARIO">github</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=flat-square&color=30363D&label=visitas" />
+
+</div>
