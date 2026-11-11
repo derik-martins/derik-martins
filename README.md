@@ -25,16 +25,20 @@ infra:     containers, Linux, cloud
 
 <br><br>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=derik-martins&show_icons=true&hide_border=true&hide_title=true&hide_rank=false&bg_color=00000000&text_color=8B949E&icon_color=8B949E&rank_icon=percentile" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derik-martins&layout=donut&langs_count=6&hide_border=true&hide_title=true&bg_color=00000000&text_color=8B949E" />
+<img height="160" src="./profile-summary-card-output/transparent/3-stats.svg" />
+<img height="160" src="./profile-summary-card-output/transparent/2-most-commit-language.svg" />
 
 <img src="https://streak-stats.demolab.com?user=derik-martins&hide_border=true&background=00000000&ring=8B949E&fire=8B949E&currStreakLabel=8B949E&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681&stroke=30363D" />
 
-<br>
+<br><br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=derik-martins&hide_border=true&bg_color=00000000&color=8B949E&line=8B949E&point=C9D1D9&area=true&area_color=30363D&hide_title=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/derik-martins/derik-martins/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/derik-martins/derik-martins/output/snake.svg" />
+  <img width="100%" alt="contribuições" src="https://raw.githubusercontent.com/derik-martins/derik-martins/output/snake.svg" />
+</picture>
 
-<br>
+<br><br>
 
 <a href="https://www.linkedin.com/in/SEU_LINKEDIN">linkedin</a> &nbsp;·&nbsp;
 <a href="mailto:seu@email.com">e-mail</a> &nbsp;·&nbsp;
